@@ -1,0 +1,133 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+@import url("https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-Medium.95291d1cd5c6185e00ba590.118364a24c6803ae4026cdb1539432fd.ttf");
+* {
+    font-family: 'Calibri';
+    background-color:rgb(247, 239, 240);
+    justify-content: center;
+}
+.information {
+    display:flex;
+    margin:20px;
+}
+.BIO p{
+    text-transform: uppercase;
+    font-family: 'Calibri';
+    margin: 40px 0px 0px 60px;
+    font-size:11px;
+    font-weight: bold;
+}
+.BIO a {
+    text-decoration: none;
+    color:black;
+}
+.BIO a:hover{
+    color:darkred;
+    text-decoration: underline;
+}
+.BIO a:active {
+    color:orangered;
+    text-decoration: underline;
+}
+.PORTFOLIO p{
+    text-transform: uppercase;
+    font-family: 'Calibri';
+    margin: 40px 0px 0px 60px;
+    font-size:11px;
+    font-weight: bold;
+}
+.PORTFOLIO a {
+    text-decoration: none;
+    color:black;
+}
+.PORTFOLIO a:hover{
+    color:darkred;
+    text-decoration: underline;
+}
+.PORTFOLIO a:active {
+    color:orangered;
+    text-decoration: underline;
+}
+.PODCAST p{
+    text-transform: uppercase;
+    font-family: 'Calibri';
+    margin: 40px 0px 0px 60px;
+    font-size:11px;
+    font-weight: bold;
+}
+.PODCAST a {
+    text-decoration: none;
+    color:black;
+}
+.PODCAST a:hover{
+    color:darkred;
+    text-decoration: underline;
+}
+.PODCAST a:active {
+    color:orangered;
+    text-decoration: underline;
+}
+.BLOG p{
+    text-transform: uppercase;
+    font-family: 'Calibri';
+    margin: 40px 0px 0px 60px;
+    font-size:11px;
+    font-weight: bold;
+}
+.BLOG a {
+    text-decoration: none;
+    color:black;
+}
+.BLOG a:hover{
+    color:darkred;
+    text-decoration: underline;
+}
+.BLOG a:active {
+    color:orangered;
+    text-decoration: underline;
+}
+.info {
+    border: 0.5px solid black;
+    width:600px;
+    height:300px;
+    margin: auto;
+}
+.info h1{
+    margin:20px;
+}
+.info p{
+    margin:20px;
+}
+.info img{
+    width: 300px;
+    height:280px;
+    margin: -270px -90px 295px 295px;
+    text-wrap: wrap;
+}
+.info .instagram{
+    width:15px;
+    height:15px;
+    margin-bottom: 300px;
+    margin-left: 16px;
+}
+.info .facebook{
+    width:15px;
+    height:15px;
+    margin-bottom: 300px;
+    margin-left: 90px;
+}
+.info .twitter{
+    width:15px;
+    height:15px;
+    margin-bottom: 300px;
+    margin-left: 90px;
+}
+.info .linkedin{
+    width:15px;
+    height:15px;
+    margin-bottom: 300px;
+    margin-left: 90px;
+}
+.information button {
+    margin: auto;
+    justify-content: center;
+}
